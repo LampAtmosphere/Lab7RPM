@@ -4,7 +4,6 @@ public class Lab7RPM {
            
            Calculator calc = new Calculator();
            
-           //Вычисление значений выражений для объектов класса
            double y1 = calc.pervoe(10);
            double y2 = calc.vtoroe(7, 3);
            double y3 = calc.tretie(2, 4, 6);
